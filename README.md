@@ -1,4 +1,4 @@
-                            🔐 QuantumVault</h1>
+<h1 align="center">🔐 QuantumVault</h1>
 
 <p align="center">
   <strong>Quantum-Grade Secure File Transfer System</strong>
